@@ -42,6 +42,9 @@ You may also find it useful to consult the following code snippet, which demonst
 ```csharp
 transform.rotation = Quaternion.Euler(xRotation, yRotation, zRotation);
 ```
+### Extra Tip / Challenge? 
+You only need 4 lines of code to complete task 2! 
+
 Remember to save your work when you are done! 
 ## Task 3: Optional Extensions
 
